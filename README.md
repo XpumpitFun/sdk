@@ -9,6 +9,7 @@ Xpumpit is your instant AI agent for Twitter and web interactions. Tag our bot i
 - **Smart Query Handling** – Ask questions, and Xpumpit will process and provide intelligent responses.
 - **Cross-Platform Links** – Works seamlessly via [Xpumpit on X (Twitter)](https://x.com/XpumpitFun) and [Xpumpit Web](https://xpumpit.fun/).
 
+CA pump.fun : xxxxxxxxxxpump
 ## How to Use
 
 1. **Tag the Bot**  

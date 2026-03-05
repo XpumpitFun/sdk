@@ -13,7 +13,7 @@ Your AI agent will instantly **launch, monitor, and query** — all from a singl
 * 𝕏: https://x.com/XpumpitFun
 * Website: https://xpumpit.fun/
 
-CA pump.fun : xxxxxxxxxxpump
+CA pump.fun : AT3obxhdtNNNghcGccuxobnUzWGE7SU1S7b28NnZpump
 ---
 
 ## ✨ What is Xpumpit?
